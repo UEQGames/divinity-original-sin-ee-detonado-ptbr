@@ -1,15 +1,11 @@
 # Changelog
 
-## v1.0
+## [1.1.0] — 2026-11-19
+- Novo design adotado como base oficial.
+- SEO, canonical, Open Graph e dados estruturados adicionados.
+- `robots.txt` e `sitemap.xml` adicionados.
+- Placeholders genéricos do HTML inicial corrigidos.
+- Lógica do novo detonado preservada.
 
-- Publicação inicial do detonado interativo no GitHub.
-- Walkthrough completo em HTML.
-- Navegação por etapas e objetivos.
-- Modo Rota.
-- Sistema de progresso.
-- Exportação e importação de save.
-- Busca global.
-- Acompanhamento de conquistas, quests, eventos e progressões.
-- Sistema de grupo/builds.
-- Mapas contextuais.
-- Layout responsivo para desktop e mobile.
+## [1.0]
+- Primeira versão pública.

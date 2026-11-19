@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ueqgames.github.io/divinity-original-sin-ee-detonado-ptbr/sitemap.xml
